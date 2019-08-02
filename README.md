@@ -1,2 +1,2 @@
 # Games
-Side Project Games
+Side Projects
